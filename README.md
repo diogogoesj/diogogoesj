@@ -11,7 +11,7 @@
 
 Diogo is a 20-year-old student who is working towards a Technologist degree in Mobile Development at UNINTER. He is currently delving into C# and ASP.NET Core development. He is open to new opportunities and collaborations. If you want to work together or discuss technology, feel free to reach out.
 
-**Contact**: [LinkedIn Profile](https://www.linkedin.com/in/jdgoes/)
+**Contact**: [LinkedIn Profile](https://www.linkedin.com/in/diogogoesj/)
 ##
 <div align="center">  
   <img width="49%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diogogoesj&theme=dark" /> 
