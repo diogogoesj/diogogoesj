@@ -9,7 +9,7 @@
 
 ## Overview
 
-Diogo is a 20-year-old student who is working towards a Technologist degree in Mobile Development at UNINTER. He is currently delving into C# and ASP.NET Core development. He is open to new opportunities and collaborations. If you want to work together or discuss technology, feel free to reach out.
+A 21-year-old student pursuing a Technologist degree in Systems Analysis and Development at PUCPR. Currently specializing in C#, ASP.NET Core, and Python development. Actively seeking new opportunities and collaborations. If you're interested in working together or discussing technology, feel free to reach out.
 
 **Contact**: [LinkedIn Profile](https://www.linkedin.com/in/diogogoesj/)
 ##
